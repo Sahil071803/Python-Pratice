@@ -43,6 +43,8 @@
 # print("The average between the two number is : ",average)
 
 # p6
-number = 5  # Assign a value to the variable
+# 
+
+number = 9  
 square = number ** 2
 print(square)
