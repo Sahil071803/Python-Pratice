@@ -14,5 +14,5 @@ print(students)
 Numbers = {1,4,7,2,5,8}
 print(Numbers)
 
-s= sets()
-print(s)
+# s= sets()
+# print(s)

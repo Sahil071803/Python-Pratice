@@ -233,26 +233,44 @@
 # print(info.items())
 
 # Sets
-set1 = {1,2,3,3,4}
-print(set1)
+# set1 = {1,2,3,3,4}
+# print(set1)
 
 
-Rno = {54,55,49,74,74,99}
-print(type(Rno))
+# Rno = {54,55,49,74,74,99}
+# print(type(Rno))
 
 
-a = {1,2,4,7}
-print(len(a))
+# a = {1,2,4,7}
+# print(len(a))
 
 
-a = {5,7,8,1,6}
-b = {4,9,7,4,3,4}
-Add =a.union(b)
-print(Add)
+# a = {5,7,8,1,6}
+# b = {4,9,7,4,3,4}
+# Add =a.union(b)
+# print(Add)
 
 
 
 
+
+
+
+# Coditional Statements
+
+# If-Elif-Else
+
+a = int(input ("Enter your age:"))
+
+if(a>=18):
+    print("you are above the age")
+    
+
+else:
+    print("you are below the age")
+
+
+    print("End the program")
 
 
 
