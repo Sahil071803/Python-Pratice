@@ -274,6 +274,22 @@ else:
 
 
 
+# Loops in python
+# For Loop
+
+a = [1,2,3,4,5]
+for item in a:
+    print(item)
+
+
+# While Loop
+
+a = 1
+while a < 6:
+    print(a)
+    a += 1
+
+
 
 
 
